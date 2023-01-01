@@ -1,6 +1,6 @@
 {
   "name": "vue-apple-login-directive",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A simple log in with Apple directive for vue",
   "main": "src/index.js",
   "scripts": {
