@@ -1,0 +1,30 @@
+{
+  "name": "vue-apple-login-directive",
+  "version": "1.0.0",
+  "description": "A simple log in with Apple directive for vue",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vue": "npm:vue@^2.7.14",
+    "vue3": "npm:vue@^3.2.45"
+  },
+  "keywords": [
+    "github",
+    "vue",
+    "apple",
+    "login",
+    "token"
+  ],
+  "homepage": "https://github.com/jhuril45/vue-apple-login-directive",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhuril45/vue-apple-login-directive.git"
+  },
+  "author": "Jhuril Bandola",
+  "bugs": {
+    "url": "https://github.com/jhuril45/vue-apple-login-directive/issues"
+  },
+  "license": "MIT"
+}
